@@ -1,0 +1,8 @@
+# Dataset is not included (download it from Kaggle, see README)
+*.csv
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
